@@ -8,3 +8,5 @@ const obj={
 }
 //module.exports=b;
 module.exports=obj;
+
+//module.exports.l=['2',3];
