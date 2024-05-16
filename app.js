@@ -1,4 +1,4 @@
-console.log("app file");
+console.log("app files");
 
 const show=require('./fundef_mod01');
 //const b=require('./dumy2');
