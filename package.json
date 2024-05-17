@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "name": "node_express",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodeman app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LIKHITH1827/node_express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LIKHITH1827/node_express/issues"
+  },
+  "homepage": "https://github.com/LIKHITH1827/node_express#readme"
+}
